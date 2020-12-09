@@ -18,6 +18,15 @@ public class Estudiante {
 	
 	
 	
+	
+	public Estudiante() {
+		super();
+	}
+
+
+
+
+
 	public Estudiante(String nombre, String apellido) {
 		super();
 		this.nombre = nombre;
